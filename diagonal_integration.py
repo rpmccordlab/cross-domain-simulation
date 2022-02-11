@@ -19,6 +19,8 @@ import scanpy as sc
 
 ##Note
 ##Please use cross_domain_simulation.py to generate data domain1, domain2, y1, and y2
+##Please follow github of each diagonal method for installment
+##We modified code of cross-modal-AE to serve specific need in this analysis 
 
 ##-----------------------------------------------------------------------------
 ##diagonal integration via SCOT
